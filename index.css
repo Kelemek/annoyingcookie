@@ -8,6 +8,9 @@ html, body {
     font-family: 'Roboto';
     color: #222;
 }
+.sectioncontainer{
+    padding: 10px;
+}
 
 /* typography */
 
